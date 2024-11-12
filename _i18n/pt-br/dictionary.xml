@@ -3573,7 +3573,6 @@
   <block id="8da6730d9b8223d2d2f6dc8027912c3c" category="list-text">Confirme que recebeu o ficheiro de licença com base no método de entrega selecionado.</block>
   <block id="f32f830159376ee58bd53b11aacde459" category="paragraph">Você deve carregar o arquivo de licença para o utilitário de administração implantar antes que ele possa ser aplicado a um nó ONTAP Select.</block>
   <block id="f8304478cfdeb2db287b6dcf0b36f3a8" category="sidebar">O NetApp ONTAP Select é um dispositivo de storage definido por software que você pode implantar em uma variedade de servidores de hardware comuns que executam o hipervisor VMware ESXi ou Kernel-Based Virtual Machine (KVM). Ele oferece a agilidade de que você precisa para criar uma infraestrutura de nuvem privada flexível e dimensionável. Este site contém a documentação do ONTAP Select 9.14.1.</block>
-  <block id="7436b418bed093768e360d32105591d2" category="sidebar">Documentação do ONTAP Select</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Comece agora</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notas de lançamento</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">O que há de novo</block>
@@ -3665,4 +3664,5 @@
   <block id="1c5ffa58ac07641f5cec5616c07b2ba2" category="sidebar">Adicione imagens ONTAP Select</block>
   <block id="0a15f7ba73868a32304fdf52855463c9" category="sidebar">Remover imagens ONTAP Select</block>
   <block id="afc9d68a1be701598b5ef94dc0be2844" category="sidebar">Recuperar o Deploy para um cluster de dois nós</block>
+  <block id="7f354690d454e4370ee79703e014fbd0" category="sidebar">Documentação do ONTAP Select 9.14.1</block>
 </blocks>
